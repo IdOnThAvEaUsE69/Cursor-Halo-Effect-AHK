@@ -4,8 +4,6 @@ A smooth, click-through ring and dot that trail your mouse cursor on Windows. Th
 
 Written in [AutoHotkey v2](https://www.autohotkey.com/). A single script, no dependencies.
 
-<!-- Add a GIF or screenshot here, e.g. ![Cursor Halo demo](docs/demo.gif) -->
-
 ## Features
 
 - **Inverted-color ring and dot.** Each frame samples the pixels under the overlay and draws the ring and dot with them inverted, so they stay visible on any background.
@@ -107,6 +105,5 @@ All settings are at the top of the script.
 
 If you find this useful, you can support more small tools like this:
 
-**[Donate on Playto](https://playto.so/Rance_Sama)**
-
-<!-- Replace the link above with your page URL. -->
+_I don't have a donation page yet...
+I do have a wise account though. Hit me up on [Discord](https://discord.com/users/399814251780243457)._ 🙌🏻
